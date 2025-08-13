@@ -1,53 +1,26 @@
-Qual o perfil do Machine Learning Júnior em
-2025
-1. Análise de Competências
-Hard Skills
-Frequentes e obrigatórias
-• Linguagens de programação: predominantemente Python
-(extensão: R, Java, C++ em alguns casos).
-• Fundamentos de estatística e algoritmos de Machine Learning,
-além de frameworks como scikit-learn, TensorFlow, PyTorch.
-• Plataformas de nuvem: familiaridade com AWS, Google Cloud
-Platform (GCP), Azure, Databricks, Snowflake.
-• Contexto de Banco de Dados e Big Data: SQL, Spark, Kafka,
-ETL — muito citados em anúncios e relatórios.
-Desejáveis (extras que agregam)
-• R, C++, Java — úteis conforme stack da empresa.
-• Frameworks/específicos de ML: TensorFlow, Keras,
-ferramentas para LLM fine-tuning.
-2. Soft Skills recorrentes
-• Comunicação: essencial para apresentar resultados técnicos e
-influenciar stakeholders.
-• Raciocínio crítico e solução de problemas: base do trabalho
-com dados e modelos.
-• Trabalho em equipe e colaboração: integração multidisciplinar
-comum em projetos de ML (Machine Learnig).
-• Curiosidade, empatia e consciência ética: relevantes em
-contextos de IA com impacto social, evidenciados por estudo
-recente.
-• Adaptabilidade e learning mindset: mercado em rápida
-evolução, exige flexibilidade e aprendizado contínuo.
-3. Faixa Salarial (Brasil e Grande SP, fontes
-Glassdoor)
-Nível Júnior
-• Machine Learning Engineer Júnior (Brasil):
-o Faixa mais provável: R$ 4.000 – R$ 7.000/mês (salário base)
-Média de R$ 6.000/mês (base), com remuneração total
-estimada de R$ 6.881/mês (incluindo variáveis)
-Glassdoor+1.
-• Júnior – São Paulo (Grande SP):
-o Total estimado: R$ 6.771/mês, sendo base cerca de R$
-6.000 e adicionais ~ R$ 860 Glassdoor.
-Nível Pleno / Machine Learning Engineer geral
-• Machine Learning Engineer (todos os níveis, Brasil):
-o Total: R$ 7.000 – R$ 15.000/mês, mediana R$ 11.000/mês
-Glassdoor.
-Resumo Salarial
-Nível Localização Faixa Salarial (R$/mês)
-Júnior ML Engineer Brasil R$ 4.000 – 7.000 (base)
-Júnior ML Engineer Grande São Paulo ~R$ 6.771 total
-Pleno ML Engineer Brasil (geral) R$ 7.000 – 15.000 (total)
-Pleno/Experiente
-São Paulo
-(reportado/anuais)
-Até R$ 20.000+ (varia muito)
+👉 Qual o perfil as empresas buscam em um Machine Learning Júnior em 2025 ?
+
+
+Para responder a essa pergunta, foram analisadas 10 vagas de desenvolvedor júnior em São Paulo e esses foram os dados. O resultado é um retrato claro do que o mercado está buscando!
+
+
+Principais Hard Skills:
+
+
+1. Linguagens de Programação: predominantemente Python
+
+2. Fundamentos de estatística e algoritmos de Machine Learning
+
+3. Contexto de Banco de Dados e Big Data
+
+
+
+Soft Skill mais Citada: Comunicação.
+
+
+Comunicação eficaz, raciocínio crítico, trabalho em equipe, adaptabilidade, aprendizado contínuo, curiosidade, empatia e consciência ética (cada vez mais valorizadas).
+
+Hoje, olhando o que mais aparece nas vagas de Machine Learning e Banco de Dados, a tendência mais forte de demanda é o domínio de ferramentas e arquiteturas voltadas para IA generativa e processamento de dados em nuvem escalável.
+
+
+#MachineLearning #MercadoDeTI #CarreiraEmTecnologia #HardSkills #SoftSkills #AnaliseDeDados
